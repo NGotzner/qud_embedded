@@ -24,6 +24,7 @@ Critical comparison: QuD effect on weak and literal condition
 ## Hypotheses
 
 1. Embedded implicatures are computed locally by the grammar
+
 2. Embedded implicatures are dependent on the contextual QuD making alternatives relevant
 
 ## Predictions 
@@ -31,12 +32,17 @@ Critical comparison: QuD effect on weak and literal condition
 Model for critical comparison: 2 inference conditions (weak, literal) x 4 QuD conditions
 
 1. Embedded implicatures are insensitive to QuD manipulations
+
 literal > weak in all QuD contexts
 
 2. Interaction between QuD and inference condition
+
 literal > weak in each-all QuD context
+
 literal = weak in any-any QuD context
+
 ? literal > weak in any-all QuD context
+
 ? literal = weak in all-any QuD context
 
 Overall inference pattern: false > literal > weak > strong
