@@ -17,7 +17,7 @@ Critical sentence: Each girl found some of her marbles
 
 4 contextual QuD conditions: each-all, any-all, all-any, any-any
 
-4 pictorial/inference conditions: literal, weak, strong, false
+4 pictorial/inference conditions: false (AANN), literal (AAAA), weak (AASS), strong (SSSS)
 
 Critical comparison: QuD effect on weak and literal condition
 
