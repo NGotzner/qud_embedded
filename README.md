@@ -1,10 +1,11 @@
 # QUD effects on the interpretation of embedded quantifiers
 
-The project is a follow-up on and combination of the following three papers:
+The project is a follow-up on and combination of the following four papers:
 
 - Chemla & Spector 2011
 - Potts, Lassiter, Levy & Frank 2015
 - Degen & Goodman 2014 
+- Gotzner & Benz, 2018
 
 Wee add Degen & Goodman style QUD manipulations to the Chemla and Potts style paradigms for assessing the derivation of local implicatures.
 
