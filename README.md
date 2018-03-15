@@ -16,6 +16,7 @@ The question: does the QUD affect the probability of implicatures in sentences w
 Critical sentence: Each girl found some of her marbles
 
 4 contextual QuD conditions: each-all, any-all, all-any, any-any
+
 4 pictorial/inference conditions: literal, weak, strong, false
 
 Critical comparison: QuD effect on weak and literal condition
@@ -39,4 +40,5 @@ literal = weak in any-any QuD context
 ? literal = weak in all-any QuD context
 
 Overall inference pattern: false > literal > weak > strong
+
 Baseline: No effect of QuD manipulation on false and strong control conditions
